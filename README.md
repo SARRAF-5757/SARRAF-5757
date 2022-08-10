@@ -1,5 +1,4 @@
-<h2> Hi, I'm Sarraf!
-<img align='right' width="240" src="https://user-images.githubusercontent.com/61262059/183807455-852aa0e7-8d6c-4a34-999c-4c5922c51db9.png">
+<img width="900" src="https://user-images.githubusercontent.com/61262059/183996211-ab7ce45a-834c-428a-89a3-3127e0c06a19.png">
 
 
 ```js
