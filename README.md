@@ -15,4 +15,4 @@ Public Class aboutSarraf {
 <br>
 
 <img align="left" width="413" src="https://github-readme-stats.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
-<img aligh="right" width="414" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
+<img aligh="right" width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
