@@ -17,7 +17,6 @@ Public Class aboutSarraf {
     }
 };
 ```
-<br>
 
 ## Stats
 <img align="left" width="403" src="https://github-readme-stats.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
