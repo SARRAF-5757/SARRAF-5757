@@ -2,7 +2,9 @@
 <img align='right' width="240" src="https://user-images.githubusercontent.com/61262059/183807455-852aa0e7-8d6c-4a34-999c-4c5922c51db9.png">
 
 
-```php
+```js
+import java.util.procrastination;
+
 Public Class aboutSarraf {
   Human sarraf = new Human();
   sarraf.pronouns = "he/him";
