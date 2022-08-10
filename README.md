@@ -7,10 +7,15 @@ import java.util.procrastination;
 
 Public Class aboutSarraf {
   Human sarraf = new Human();
-  sarraf.pronouns = "he/him";
   sarraf.age = 19;
+  sarraf.pronouns = "he/him";
   sarraf.profession = "student";
-  sarraf.languages = Java, Python, HTML, C++;
+  String languages = {"Java", "Python", "HTML", "C++"};
+  String workingProjects = {
+      "Saricons",
+      "Air Quality Monitor (Arduino)",
+      "Mi Band Resources"
+    }
 };
 ```
 <br>
