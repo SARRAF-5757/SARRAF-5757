@@ -1,6 +1,5 @@
 <h2> Hi, I'm Sarraf!
-<img align='right' width="230" src="https://user-images.githubusercontent.com/61262059/183807097-eb80b1d3-d06b-42a7-a9d6-4dc2c9f07031.png">
-
+<img align='right' width="230" src="https://user-images.githubusercontent.com/61262059/183807242-a6bee91d-e6ab-4970-ac81-9e0a9f8fa878.png">
 
 ```php
 Public Class aboutSarraf {
