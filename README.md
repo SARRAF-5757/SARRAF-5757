@@ -27,5 +27,5 @@ Public Class aboutSarraf {
 <br>
 
 ## Repositories
-<img align="left" width="413" src="https://github-readme-stats.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
-<img align="right" width="413" src="https://github-readme-stats.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+<img align="left" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
+<img align="right" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
