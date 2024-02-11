@@ -22,7 +22,7 @@ Public Class aboutSarraf {
 
 ## Stats
 <img align="left" width="403" src="https://github-readme-stats.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
-<img aligh="right" width="403" src="https://github-readme-stats-sable-eta-11.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
+<img aligh="right" width="403" src="https://readme-stats-2jl3hgups-sarraf-5757s-projects.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
 
 <br>
 
