@@ -20,21 +20,29 @@
   </a> &nbsp;&nbsp;
   <a href="https://www.bandbbs.cn/members/28763/" target="_blank">
     <img alt="Unsplash" src="https://img.shields.io/badge/BandBBS-profile?style=flat&color=%239A96B4&link=https%3A%2F%2Fwww.bandbbs.cn%2Fmembers%2F28763%2F" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sarraf_5757/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-profile?style=flat&logo=instagram&logoColor=white&color=%23E4405F&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
+  </a> &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/737065241309085746" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-profile?style=flat&logo=discord&logoColor=white&label=sarraf.&labelColor=%235865F2&color=white&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
   </a>
 </p>
 
 
 <h3 align="left"> <a>Tools Used</a> </h3>
 <p align="center">
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://media.imgcdn.org/repo/2023/03/alteryx-designer/alteryx-designer-logo.png" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;&nbsp;
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;&nbsp;
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </p>
 
