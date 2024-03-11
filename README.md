@@ -53,6 +53,7 @@ class Human {
 public:
     int age;
     string pronouns, ethnicity, profession, location;
+    vector<string> languages, workingProjects;
 };
 
 int main() {
@@ -71,7 +72,6 @@ int main() {
     };
     return 0;
 }
-
 ```
 
 <h3 align="left"> <a>Stats</a> </h3>
