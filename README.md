@@ -28,7 +28,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-profile?style=flat&logo=discord&logoColor=white&color=%235865F2&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
   </a> &nbsp;
   <a href="sarrafa@umich.edu" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/E--mail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
   </a>
 </p>
 
@@ -96,7 +96,13 @@ int main() {
 
 <br>
 
+[![SARRAF's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARRAF-5757&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left"> <a>Repositories</a> </h3>
 
 <img align="left" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</p>
