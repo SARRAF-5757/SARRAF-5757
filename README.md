@@ -1,5 +1,11 @@
 <img width="900" src="https://user-images.githubusercontent.com/61262059/184005980-bb76665a-279b-401e-aaad-28b7287ad133.png">
 
+![Gmail Badge](https://img.shields.io/badge/gmail-button?style=flat&logo=gmail&logoColor=%23EA4335&color=grey&link=sarraf5757%40gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/linkedin-profile?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarraf-ahmed%2F)
+
+
+
+
 ## About Me
 ```js
 import java.util.procrastination;
