@@ -43,23 +43,35 @@
 
 <h3 align="left"> <a>About Me</a> </h3>
 
-```js
-import java.util.procrastination;
+```cpp
+#include <string>
+#include "procrastination"
 
-Public Class aboutSarraf {
-  Human sarraf = new Human();
-  sarraf.age = 19;
-  sarraf.pronouns = "he/him";
-  sarraf.ethnicity = "asian";
-  sarraf.profession = "student";
-  sarraf.location = "michigan, USA"
-  String languages = {"Java", "Python", "HTML", "C++"};
-  String workingProjects = {
-    "Saricons",
-    "Air Quality Monitor (Arduino)",
-    "Mi Band Resources"
-  }
+using namespace std;
+
+class Human {
+public:
+    int age;
+    string pronouns, ethnicity, profession, location;
 };
+
+int main() {
+    Human sarraf;
+    sarraf.age = 20;
+    sarraf.pronouns = "he/him";
+    sarraf.ethnicity = "asian";
+    sarraf.profession = "student at Umich";
+    sarraf.location = "Michigan, USA";
+
+    vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
+    vector<string> workingProjects = {
+        "Saricons",
+        "Air Quality Monitor (Arduino)",
+        "Mi Band Resources"
+    };
+    return 0;
+}
+
 ```
 
 <h3 align="left"> <a>Stats</a> </h3>
