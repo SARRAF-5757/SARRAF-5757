@@ -3,9 +3,6 @@
 <h3 align="left"> <a>Find me on </a> </h3>
   
 <p align="center">
-  <a href="sarrafa@umich.edu" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-button?style=flat&logo=gmail&logoColor=%23EA4335&color=grey&link=sarraf5757%40gmail.com" />
-  </a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sarraf-ahmed/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarraf-ahmed%2F" />
   </a> &nbsp;&nbsp;
@@ -20,6 +17,9 @@
   </a> &nbsp;&nbsp;
   <a href="https://www.bandbbs.cn/members/28763/" target="_blank">
     <img alt="Unsplash" src="https://img.shields.io/badge/BandBBS-profile?style=flat&color=%239A96B4&link=https%3A%2F%2Fwww.bandbbs.cn%2Fmembers%2F28763%2F" />
+  </a> &nbsp;&nbsp;
+  <a href="sarrafa@umich.edu" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/ail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/sarraf_5757/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-profile?style=flat&logo=instagram&logoColor=white&color=%23E4405F&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
