@@ -4,10 +4,10 @@
   
 <p align="center">
   <a href="https://linkedin.com/in/sarraf-ahmed/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarraf-ahmed%2F" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarraf-ahmed%2F"/>
   </a> &nbsp;
   <a href="https://devpost.com/SARRAF-5757" target="_blank">
-    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-profile?style=flat&logo=devpost&logoColor=white&labelColor=%23004B65&color=%23004B65&link=https%3A%2F%2Fdevpost.com%2FSARRAF-5757" />
+    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-profile?style=flat&logo=devpost&logoColor=white&labelColor=%23004B65&color=%23004B65&link=https%3A%2F%2Fdevpost.com%2FSARRAF-5757"/>
   </a> &nbsp;
   <a href="https://unsplash.com/@sarraf5757" target="_blank">
     <img alt="Unsplash" src="https://img.shields.io/badge/Unsplash-profile?style=flat&logo=unsplash&logoColor=black&labelColor=white&color=white&link=https%3A%2F%2Funsplash.com%2F%40sarraf5757" />
@@ -21,14 +21,14 @@
   <a href="https://monkeytype.com/profile/SwampyGroot" target="_blank">
     <img alt="MonkeyType" src="https://img.shields.io/badge/MonkeyType-profile?style=flat&color=%23E2B714&cacheSeconds=https%3A%2F%2Fmonkeytype.com%2Fprofile%2FSwampyGroot" />
   </a> &nbsp;
-  <a href="sarrafa@umich.edu" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/ail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
-  </a> &nbsp;
   <a href="https://www.instagram.com/sarraf_5757/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-profile?style=flat&logo=instagram&logoColor=white&color=%23E4405F&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
   </a> &nbsp;
   <a href="https://discordapp.com/users/737065241309085746" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-profile?style=flat&logo=discord&logoColor=white&color=%235865F2&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
+  </a> &nbsp;
+  <a href="sarrafa@umich.edu" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/E--mail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
   </a>
 </p>
 
