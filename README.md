@@ -1,5 +1,7 @@
 <img width="900" src="https://user-images.githubusercontent.com/61262059/184005980-bb76665a-279b-401e-aaad-28b7287ad133.png">
 
+<h3 align="center"> <a>Find me on </a> </h3>
+  
 <p align="center">
   <a href="sarraf5757@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-button?style=flat&logo=gmail&logoColor=%23EA4335&color=grey&link=sarraf5757%40gmail.com" /></a> 
@@ -9,7 +11,7 @@
 </p>
 
 
-## Tools Used
+<h3 align="left"> <a>Tools Used</a> </h3>
 <p align="center">
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,11 +49,11 @@ Public Class aboutSarraf {
 ```
 
 ## Stats
-<img align="left" width="403" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
-<img aligh="right" width="403" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
+<img align="left" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
+<img aligh="right" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
 
 <br>
 
 ## Repositories
-<img align="left" width="403" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
-<img align="left" width="403" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
