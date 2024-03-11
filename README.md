@@ -44,26 +44,30 @@
 <h3 align="left"> <a>About Me</a> </h3>
 
 ```cpp
-#include <string>
-#include "procrastination"
+#include "procrastination.hpp"
 
 using namespace std;
 
 class Human {
-public:
+private:
     int age;
     string pronouns, ethnicity, profession, location;
+
+public:
     vector<string> languages, workingProjects;
+    Human(int ag,
+          string prn,
+          string ethn,
+          string prof,
+          string loc);
 };
 
-int main() {
-    Human sarraf;
-    sarraf.age = 20;
-    sarraf.pronouns = "he/him";
-    sarraf.ethnicity = "asian";
-    sarraf.profession = "student at Umich";
-    sarraf.location = "Michigan, USA";
+Human::Human(int ag, string prn, string ethn, string prof, string loc) 
+            : age(ag), pronouns(prn), ethnicity(ethn), profession(prof), location(loc) {
+}
 
+int main() {
+    Human sarraf (20, "he/him", "asian", "student at Umich", "Michigan, USA";
     vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
     vector<string> workingProjects = {
         "Saricons",
