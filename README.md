@@ -3,7 +3,7 @@
 <h3 align="left"> <a>Find me on </a> </h3>
   
 <p align="center">
-  <a href="sarraf5757@gmail.com" target="_blank">
+  <a href="sarrafa@umich.edu" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-button?style=flat&logo=gmail&logoColor=%23EA4335&color=grey&link=sarraf5757%40gmail.com" />
   </a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sarraf-ahmed/" target="_blank">
@@ -25,7 +25,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-profile?style=flat&logo=instagram&logoColor=white&color=%23E4405F&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
   </a> &nbsp;&nbsp;
   <a href="https://discordapp.com/users/737065241309085746" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-profile?style=flat&logo=discord&logoColor=white&label=sarraf.&labelColor=%235865F2&color=white&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-profile?style=flat&logo=discord&logoColor=white&color=%235865F2&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fsarraf_5757%2F" />
   </a>
 </p>
 
