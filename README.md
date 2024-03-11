@@ -18,6 +18,9 @@
   <a href="https://www.bandbbs.cn/members/28763/" target="_blank">
     <img alt="Unsplash" src="https://img.shields.io/badge/BandBBS-profile?style=flat&color=%239A96B4&link=https%3A%2F%2Fwww.bandbbs.cn%2Fmembers%2F28763%2F" />
   </a> &nbsp;&nbsp;
+  <a href="https://monkeytype.com/profile/SwampyGroot" target="_blank">
+    <img alt="MonkeyType" src="https://img.shields.io/badge/MonkeyType-profile?style=flat&color=%23E2B714&cacheSeconds=https%3A%2F%2Fmonkeytype.com%2Fprofile%2FSwampyGroot" />
+  </a> &nbsp;&nbsp;
   <a href="sarrafa@umich.edu" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/ail-profile?style=flat&logo=gmail&logoColor=%23FFCB05&color=%2300274C&cacheSeconds=sarrafa%40umich.edu" />
   </a> &nbsp;&nbsp;
