@@ -91,8 +91,8 @@ int main() {
 
 <h3 align="left"> <a>Stats</a> </h3>
 
-<img align="left" width="49%" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
-<img aligh="right" width="49%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
+<img align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight">
+<img aligh="right" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
 
 <br>
 
@@ -100,8 +100,8 @@ int main() {
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
-<img align="left" width="49%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
-<img align="left" width="49%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+<img align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
+<img align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
 
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
