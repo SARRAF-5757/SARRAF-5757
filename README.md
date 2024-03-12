@@ -100,7 +100,7 @@ int main() {
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
-<img align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Saricons&theme=radical">
+<img align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
 <img align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
 
 <p align="center" width="100%">
