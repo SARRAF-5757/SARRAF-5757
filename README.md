@@ -55,7 +55,7 @@
 <h3 align="left"> <a>About Me</a> </h3>
 
 ```cpp
-#include "procrastination.hpp"
+#include "procrastination.h"
 
 using namespace std;
 
@@ -82,8 +82,8 @@ int main() {
     vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
     vector<string> workingProjects = {
         "Saricons",
-        "Air Quality Monitor (Arduino)",
-        "Mi Band Resources"
+        "WordleBot",
+        "Air Quality Monitor (Arduino)"
     };
     return 0;
 }
