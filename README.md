@@ -54,38 +54,23 @@
 
 <h3 align="left"> <a>About Me</a> </h3>
 
-```cpp
-#include "procrastination.h"
-
-using namespace std;
-
-class Human {
-private:
-    int age;
-    string pronouns, ethnicity, profession, location;
-
-public:
-    vector<string> languages, workingProjects;
-    Human(int ag,
-          string prn,
-          string ethn,
-          string prof,
-          string loc);
-};
-
-Human::Human(int ag, string prn, string ethn, string prof, string loc) 
-            : age(ag), pronouns(prn), ethnicity(ethn), profession(prof), location(loc) {
-}
-
-int main() {
-    Human sarraf (20, "he/him", "asian", "student at Umich", "Michigan, USA";
-    vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
-    vector<string> workingProjects = {
-        "Saricons",
-        "WordleBot",
-        "Air Quality Monitor (Arduino)"
-    };
-    return 0;
+```js
+import java.util.procrastination;                                                                                
+  public class AboutSarraf {
+    public static void main(String[] args) {
+        Human sarraf = new Human();
+        sarraf.age = 20;
+        sarraf.pronouns = "he/him";
+        sarraf.ethnicity = "asian";
+        sarraf.profession = "student";
+        sarraf.location = "Michigan, USA";
+        String[] languages = {"C++", "Java", "Python", "HTML"};
+        String[] workingProjects = {
+            "Saricons",
+            "Air Quality Monitor (Arduino)",
+            "Wordle Bot"
+        };
+    }
 }
 ```
 
