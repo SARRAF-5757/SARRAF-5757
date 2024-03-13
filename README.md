@@ -54,23 +54,26 @@
 
 <h3 align="left"> <a>About Me</a> </h3>
 
-```js
-import java.util.procrastination;                                                                                
-  public class AboutSarraf {
-    public static void main(String[] args) {
-        Human sarraf = new Human();
-        sarraf.age = 20;
-        sarraf.pronouns = "he/him";
-        sarraf.ethnicity = "asian";
-        sarraf.profession = "student";
-        sarraf.location = "Michigan, USA";
-        String[] languages = {"C++", "Java", "Python", "HTML"};
-        String[] workingProjects = {
-            "Saricons",
-            "Air Quality Monitor (Arduino)",
-            "Wordle Bot"
-        };
-    }
+```cpp
+#include "procrastination"
+
+using namespace std;
+
+int main() {
+    Human sarraf;
+    sarraf.age = 20;
+    sarraf.pronouns = "he/him";
+    sarraf.ethnicity = "asian";
+    sarraf.profession = "student at Umich";
+    sarraf.location = "Michigan, USA";
+
+    vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
+    vector<string> workingProjects = {
+        "Saricons",
+        "Air Quality Monitor (Arduino)",
+        "Wordle Bot"
+    };
+    return 0;
 }
 ```
 
