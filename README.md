@@ -100,8 +100,8 @@ int main() {
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
-<img align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
-<img align="right" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+<img align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
+<img align="right" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
 
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
