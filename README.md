@@ -1,6 +1,5 @@
 <img width="900" src="https://user-images.githubusercontent.com/61262059/184005980-bb76665a-279b-401e-aaad-28b7287ad133.png">
 
-<h3 align="left"> <a>Find me on </a> </h3>
   
 <p align="center">
   <a href="https://linkedin.com/in/sarraf-ahmed/" target="_blank">
@@ -33,7 +32,6 @@
 </p>
 
 
-<h3 align="left"> <a>Tools Used</a> </h3>
 <p align="center">
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;
@@ -54,26 +52,23 @@
 
 <h3 align="left"> <a>About Me</a> </h3>
 
-```cpp
-#include "procrastination"
-
-using namespace std;
-
-int main() {
-    Human sarraf;
-    sarraf.age = 20;
-    sarraf.pronouns = "he/him";
-    sarraf.ethnicity = "asian";
-    sarraf.profession = "student at Umich";
-    sarraf.location = "Michigan, USA";
-
-    vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
-    vector<string> workingProjects = {
-        "Saricons",
-        "Air Quality Monitor (Arduino)",
-        "Wordle Bot"
-    };
-    return 0;
+```js
+import java.util.procrastination;                                                                                
+  public class AboutSarraf {
+    public static void main(String[] args) {
+        Human sarraf = new Human();
+        sarraf.age = 20;
+        sarraf.pronouns = "he/him";
+        sarraf.ethnicity = "asian";
+        sarraf.profession = "student";
+        sarraf.location = "Michigan, USA";
+        String[] languages = {"C++", "Java", "Python", "HTML"};
+        String[] workingProjects = {
+            "Saricons",
+            "Air Quality Monitor (Arduino)",
+            "Wordle Bot"
+        };
+    }
 }
 ```
 
