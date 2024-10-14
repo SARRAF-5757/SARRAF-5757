@@ -52,26 +52,29 @@
 
 <h3 align="left"> <a>About Me</a> </h3>
 
-```js
-import java.util.procrastination;
-import java.util.caffeine;
+```cpp
+#include <procrastination>
+#include "caffeine"
 
-public class AboutSarraf {
-  public static void main(String[] args) {
-    Human sarraf = new Human();
-    sarraf.age = 20;
-    sarraf.pronouns = "he/him";
-    sarraf.ethnicity = "asian";
-    sarraf.profession = "student";
-    sarraf.location = "Michigan, USA";
-    String[] languages = {"C++", "Java", "Python", "HTML", "CSS"};
-    String[] workingProjects = {
-      "Saricons",
-      "Air Quality Monitor (Arduino)",
-      "Wordle Bot"
-    };
-  }
-}
+class AboutSarraf {  
+private:
+    Human sarraf;
+    std::vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
+    std::vector<string> workingProjects = {
+        "Saricons",
+        "Air Quality Monitor (Arduino)",
+        "Wordle Bot"
+    }
+public:
+    AboutSarraf() {
+        sarraf.age = 21;
+        sarraf.pronouns = "he/him";
+        sarraf.ethnicity = "south_asian";
+        sarraf.profession = "student";
+        sarraf.location = "Michigan, USA";
+    }
+};
+```
 ```
 
 <h3 align="left"> <a>Stats</a> </h3>
