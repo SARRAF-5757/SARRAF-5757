@@ -31,20 +31,25 @@
   </a>
 </p>
 
-
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;
+</p>
+<h3 align="center">My Toolset</h3>
+<p align="center">
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://mvolkmann.github.io/blog/assets/warp-logo.png?v=1.1.1" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://media.imgcdn.org/repo/2023/03/alteryx-designer/alteryx-designer-logo.png" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </p>
 
 
