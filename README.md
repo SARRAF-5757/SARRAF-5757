@@ -92,11 +92,14 @@ public:
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
-<a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
+<a href="https://github.com/SARRAF-5757/Waqt" target="_blank">
   <img alt="Repo 1" align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
 </a>
-<a href="https://github.com/felixcreate/Air-Quality-Arduino" target="_blank">
+<a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
   <img alt="Repo 2" align="right" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=felixcreate&repo=Air-Quality-Arduino&theme=radical">
+</a> &nbsp;
+<a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
+  <img alt="Repo 3" align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
 </a> &nbsp;
 
 <p align="center" width="100%">
