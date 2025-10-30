@@ -38,6 +38,7 @@
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" /> &nbsp;&nbsp;
 </p>
 <h3 align="center">My Toolset</h3>
 <p align="center">
@@ -46,9 +47,10 @@
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://ml.globenewswire.com/Resource/Download/f5e1170f-0e05-4e3c-b6f3-3bc0ac3f7f22" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://static-00.iconduck.com/assets.00/file-type-qlikview-icon-512x497-sjcwjpwe.png" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://clusterdesign.io/wp-content/uploads/2023/11/image_processing20210621-18852-fg0vbw.png" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://media.imgcdn.org/repo/2023/03/alteryx-designer/alteryx-designer-logo.png" /> &nbsp;&nbsp;
 </p>
 
@@ -97,7 +99,7 @@ public:
 </a>
 <a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
   <img alt="Repo 2" align="right" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
-</a> &nbsp; &nbsp;
+</a> &nbsp;
 <a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
   <img alt="Repo 3" align="left" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
 </a> &nbsp;
