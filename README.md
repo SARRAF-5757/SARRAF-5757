@@ -94,13 +94,13 @@ public:
 
 <div style="display: grid; grid-template-columns: repeat(2, 47.5%); grid-gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/SARRAF-5757/Waqt" target="_blank">
-    <img alt="Repo 1" width="100%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&theme=radical">
+    <img alt="Repo 1" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&theme=radical">
   </a>
   <a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
-    <img alt="Repo 2" width="100%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
+    <img alt="Repo 2" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
   </a>
   <a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
-    <img alt="Repo 3" width="100%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
+    <img alt="Repo 3" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
   </a>
 </div>
 
