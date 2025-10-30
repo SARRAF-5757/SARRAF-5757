@@ -98,7 +98,9 @@ public:
 <a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
   <img alt="Repo 2" align="right" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
 </a>
-<p> </p>
+
+<br><br>
+
 <a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
   <img alt="Repo 3" align="left" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
 </a> &nbsp;
