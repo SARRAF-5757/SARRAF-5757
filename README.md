@@ -92,17 +92,16 @@ public:
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
-<div style="display: grid; grid-template-columns: repeat(2, 47.5%); grid-gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/SARRAF-5757/Waqt" target="_blank">
-    <img alt="Repo 1" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&theme=radical">
-  </a>
-  <a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
-    <img alt="Repo 2" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
-  </a>
-  <a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
-    <img alt="Repo 3" width="50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
-  </a>
-</div>
+<a href="https://github.com/SARRAF-5757/Waqt" target="_blank">
+  <img alt="Repo 1" align="left" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&theme=radical">
+</a>
+<a href="https://github.com/SARRAF-5757/BlackGlass" target="_blank">
+  <img alt="Repo 2" align="right" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=BlackGlass&theme=radical">
+</a> &nbsp;
+<br> &nbsp;
+<a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
+  <img alt="Repo 3" align="left" width="47.50%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=radical">
+</a> &nbsp;
 
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
