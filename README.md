@@ -1,6 +1,5 @@
 <img width="900" src="https://user-images.githubusercontent.com/61262059/184005980-bb76665a-279b-401e-aaad-28b7287ad133.png">
 
-  
 <p align="center">
   <a href="https://linkedin.com/in/sarraf-ahmed/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarraf-ahmed%2F"/>
@@ -42,11 +41,11 @@
   
 </p>
 <h3 align="center">My Toolset</h3>
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
+  <img align="center" width="40" src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/01/ghostty-logo.png?q=70&fit=contain&w=420&dpr=1" /> &nbsp;&nbsp;
 <p align="center">
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/01/ghostty-logo.png?q=70&fit=contain&w=420&dpr=1" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://miro.medium.com/v2/resize:fit:1500/1%2ASYC2GgJ5vG1DJrRI9A9Leg.png" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> &nbsp;&nbsp;
@@ -55,16 +54,13 @@
   
 </p>
 
-
-
-
 <h3 align="left"> <a>About Me</a> </h3>
 
 ```cpp
 #include <procrastination>
 #include "caffeine"
 
-class AboutSarraf {  
+class AboutSarraf {
 private:
     Human sarraf;
     std::vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
