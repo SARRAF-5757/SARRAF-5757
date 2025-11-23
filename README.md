@@ -41,9 +41,9 @@
   
 </p>
 <h3 align="center">My Toolset</h3>
+<p align="center">
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/01/ghostty-logo.png?q=70&fit=contain&w=420&dpr=1" /> &nbsp;&nbsp;
-<p align="center">
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> &nbsp;&nbsp;
