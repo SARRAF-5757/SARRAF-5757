@@ -63,8 +63,8 @@
 class AboutSarraf {
 private:
     Human sarraf;
-    std::vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
-    std::vector<string> workingProjects = {
+    vector<string> languages = {"C++", "Java", "Python", "HTML", "CSS"};
+    vector<string> workingProjects = {
         "Saricons",
         "Air Quality Monitor (Arduino)",
         "Wordle Bot"
