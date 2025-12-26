@@ -65,28 +65,28 @@ public:
 };
 ```
 
-<img align="left" width="54%" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&count_private=true&show_icons=true&theme=tokyonight&custom_title=Stats">
-<img align="right" width="41%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&theme=tokyonight">
+<img align="left" width="54%" src="https://github-readme-stats-seven-pied-24.vercel.app/api?username=SARRAF-5757&bg_color=0D1117&border_color=0D1117&count_private=true&show_icons=true&theme=tokyonight&custom_title=Stats">
+<img align="right" width="41%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/top-langs/?username=SARRAF-5757&layout=compact&count_private=true&show_icons&bg_color=0D1117&border_color=0D1117&theme=tokyonight">
 
 <br clear="both"/>
 <br/>
 
-[![SARRAF's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARRAF-5757&theme=tokyo-night&area=true&area_color=BF91F3&point=E0AF68&title_color=BF91F3&custom_title=Contributions&color=38BDAE)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SARRAF's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SARRAF-5757&theme=tokyo-night&bg_color=0D1117&border_color=0D1117&area=true&area_color=BF91F3&point=E0AF68&title_color=BF91F3&custom_title=Contributions&color=38BDAE)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left"> <a>Repositories</a> </h3>
 
 <a href="https://github.com/SARRAF-5757/OMP-Wizard" target="_blank">
-  <img alt="Repo 1" align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=OMP-Wizard&theme=tokyonight">
+  <img alt="Repo 1" align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=OMP-Wizard&bg_color=0D1117&border_color=0D1117&theme=tokyonight">
 </a>
 <a href="https://github.com/SARRAF-5757/Waqt" target="_blank">
-  <img alt="Repo 2" align="right" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&theme=tokyonight">
+  <img alt="Repo 2" align="right" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=SARRAF-5757&repo=Waqt&bg_color=0D1117&border_color=0D1117&theme=tokyonight">
 </a>
 
 <br clear="both"/>
 <br/>
 
 <a href="https://github.com/ColeCurrent/Wordle-Bot" target="_blank">
-  <img alt="Repo 3" align="left" width="48%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&theme=tokyonight">
+  <img alt="Repo 3" align="left" width="47.5%" src="https://github-readme-stats-seven-pied-24.vercel.app/api/pin/?username=ColeCurrent&repo=Wordle-Bot&bg_color=0D1117&border_color=0D1117&theme=tokyonight">
 </a>
 
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
